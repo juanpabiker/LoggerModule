@@ -1,0 +1,17 @@
+C:\Users\jsosa\source\repos\BelaxLogger\Logger.Core.Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\jsosa\source\repos\BelaxLogger\Logger.Core.Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\jsosa\source\repos\BelaxLogger\Logger.Core.Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\jsosa\source\repos\BelaxLogger\Logger.Core.Test\bin\Debug\netcoreapp2.1\Logger.Core.Test.deps.json
+C:\Users\jsosa\source\repos\BelaxLogger\Logger.Core.Test\bin\Debug\netcoreapp2.1\Logger.Core.Test.runtimeconfig.json
+C:\Users\jsosa\source\repos\BelaxLogger\Logger.Core.Test\bin\Debug\netcoreapp2.1\Logger.Core.Test.runtimeconfig.dev.json
+C:\Users\jsosa\source\repos\BelaxLogger\Logger.Core.Test\bin\Debug\netcoreapp2.1\Logger.Core.Test.dll
+C:\Users\jsosa\source\repos\BelaxLogger\Logger.Core.Test\bin\Debug\netcoreapp2.1\Logger.Core.Test.pdb
+C:\Users\jsosa\source\repos\BelaxLogger\Logger.Core.Test\bin\Debug\netcoreapp2.1\Logger.Core.dll
+C:\Users\jsosa\source\repos\BelaxLogger\Logger.Core.Test\bin\Debug\netcoreapp2.1\Logger.Core.pdb
+C:\Users\jsosa\source\repos\BelaxLogger\Logger.Core.Test\obj\Debug\netcoreapp2.1\Logger.Core.Test.csprojAssemblyReference.cache
+C:\Users\jsosa\source\repos\BelaxLogger\Logger.Core.Test\obj\Debug\netcoreapp2.1\Logger.Core.Test.csproj.CoreCompileInputs.cache
+C:\Users\jsosa\source\repos\BelaxLogger\Logger.Core.Test\obj\Debug\netcoreapp2.1\Logger.Core.Test.AssemblyInfoInputs.cache
+C:\Users\jsosa\source\repos\BelaxLogger\Logger.Core.Test\obj\Debug\netcoreapp2.1\Logger.Core.Test.AssemblyInfo.cs
+C:\Users\jsosa\source\repos\BelaxLogger\Logger.Core.Test\obj\Debug\netcoreapp2.1\Logger.Core.Test.csproj.CopyComplete
+C:\Users\jsosa\source\repos\BelaxLogger\Logger.Core.Test\obj\Debug\netcoreapp2.1\Logger.Core.Test.dll
+C:\Users\jsosa\source\repos\BelaxLogger\Logger.Core.Test\obj\Debug\netcoreapp2.1\Logger.Core.Test.pdb

@@ -1,0 +1,10 @@
+C:\Users\jsosa\source\repos\BelaxLogger\BelaxLogger\Modules\netcoreapp2.1\Logger.Console.deps.json
+C:\Users\jsosa\source\repos\BelaxLogger\BelaxLogger\Modules\netcoreapp2.1\Logger.Console.dll
+C:\Users\jsosa\source\repos\BelaxLogger\BelaxLogger\Modules\netcoreapp2.1\Logger.Console.pdb
+C:\Users\jsosa\source\repos\BelaxLogger\Module.Logger.Console\obj\Debug\netcoreapp2.1\Logger.Console.csprojAssemblyReference.cache
+C:\Users\jsosa\source\repos\BelaxLogger\Module.Logger.Console\obj\Debug\netcoreapp2.1\Logger.Console.csproj.CoreCompileInputs.cache
+C:\Users\jsosa\source\repos\BelaxLogger\Module.Logger.Console\obj\Debug\netcoreapp2.1\Logger.Console.AssemblyInfoInputs.cache
+C:\Users\jsosa\source\repos\BelaxLogger\Module.Logger.Console\obj\Debug\netcoreapp2.1\Logger.Console.AssemblyInfo.cs
+C:\Users\jsosa\source\repos\BelaxLogger\Module.Logger.Console\obj\Debug\netcoreapp2.1\Logger.Console.csproj.CopyComplete
+C:\Users\jsosa\source\repos\BelaxLogger\Module.Logger.Console\obj\Debug\netcoreapp2.1\Logger.Console.dll
+C:\Users\jsosa\source\repos\BelaxLogger\Module.Logger.Console\obj\Debug\netcoreapp2.1\Logger.Console.pdb
