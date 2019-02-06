@@ -18,7 +18,7 @@ namespace Logger.Core
 
         public void ExcecuteLog(string type, string messege)
         {
-            LoadPlugins();
+            //LoadPlugins();
             var job = new JobLogger();
             foreach (var module in GlobalModules.Modules)
             {
