@@ -1,9 +1,0 @@
-C:\Users\jsosa\source\repos\BelaxLogger\Logger.Core\bin\Release\netcoreapp2.1\win10-x64\Logger.Core.deps.json
-C:\Users\jsosa\source\repos\BelaxLogger\Logger.Core\bin\Release\netcoreapp2.1\win10-x64\Logger.Core.dll
-C:\Users\jsosa\source\repos\BelaxLogger\Logger.Core\bin\Release\netcoreapp2.1\win10-x64\Logger.Core.pdb
-C:\Users\jsosa\source\repos\BelaxLogger\Logger.Core\obj\Release\netcoreapp2.1\win10-x64\Logger.Core.csprojAssemblyReference.cache
-C:\Users\jsosa\source\repos\BelaxLogger\Logger.Core\obj\Release\netcoreapp2.1\win10-x64\Logger.Core.csproj.CoreCompileInputs.cache
-C:\Users\jsosa\source\repos\BelaxLogger\Logger.Core\obj\Release\netcoreapp2.1\win10-x64\Logger.Core.AssemblyInfoInputs.cache
-C:\Users\jsosa\source\repos\BelaxLogger\Logger.Core\obj\Release\netcoreapp2.1\win10-x64\Logger.Core.AssemblyInfo.cs
-C:\Users\jsosa\source\repos\BelaxLogger\Logger.Core\obj\Release\netcoreapp2.1\win10-x64\Logger.Core.dll
-C:\Users\jsosa\source\repos\BelaxLogger\Logger.Core\obj\Release\netcoreapp2.1\win10-x64\Logger.Core.pdb

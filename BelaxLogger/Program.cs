@@ -1,4 +1,5 @@
 ﻿using Logger.Core;
+using Logger.Core.Watchers;
 using Microsoft.Extensions.Configuration;
 using System;
 using System.Collections.Generic;
@@ -27,6 +28,8 @@ namespace BelaxLogger
             var configuration = builder.Build();
 
             _pluginServices = new PluginServices(configuration.GetConnectionString("DefaultConnection"));
+
+            AssemblyWatcher assemblyMonitor = new AssemblyWatcher(_pluginServices);
 
             CargaModulos(configuration.GetSection("ModulesEnable").GetChildren());
             ModulesInformation();
