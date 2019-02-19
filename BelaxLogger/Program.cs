@@ -60,7 +60,7 @@ namespace BelaxLogger
             foreach (var module in GlobalModules.Modules)
             {
                 Console.WriteLine(
-                    String.Format("|{0,30}|{1,30}|{2,30}|", string.Concat("Module: ", module.Name), string.Concat("Enable: ", module.Enable), string.Concat("Exits: ", module.Exist)));
+                    String.Format("|{0,-30}|{1,-30}|{2,-30}|", string.Concat("Module: ", module.Name), string.Concat("Enable: ", module.Enable), string.Concat("Exits: ", module.Exist)));
             }
 
             Console.WriteLine(string.Empty);
